@@ -13,7 +13,7 @@ I'm a **Senior Solutions Consultant** and **Software Engineer** passionate about
 
 ---
 
-## 🧰 Tech I Use & Love
+## 🧰 Tech I Use
 
 - **Frontend:** React, Next.js, Expo, Tailwind, Ant Design  
 - **Backend:** Java, Go, Node.js, Firebase, Express.js  
@@ -30,7 +30,7 @@ I'm a **Senior Solutions Consultant** and **Software Engineer** passionate about
 
 ## 📌 Highlights
 
-- 🎓 MSc in Computer Science (in view) UNiversity of Cork.
+- 🎓 MSc in Computer Science (in view) UNiversity of York.
 - 📱 Now building products across event tech, fintech, identity, and ESG compliance.
 
 ---
